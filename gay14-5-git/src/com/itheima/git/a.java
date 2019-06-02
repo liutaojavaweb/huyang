@@ -12,4 +12,11 @@ public class a {
         System.out.println("sdfdsf");
     }
 
+
+
+
+
+    public void s (){
+        System.out.println("sdfsgjhdklsgjogjoslg");
+    }
 }
